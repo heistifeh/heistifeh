@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Boluwatife</h1>
 <h3 align="center">I'm a software developer passionate about solving problems and bridging gaps, one line of code at a time. As a full-stack developer, I work with technologies such as Node.js, Next.js and React, among others.</h3>
 
-- 🔭 I’m currently working on **an Ecommerce Web App**
+- 🔭 I’m currently working on **A Vendor Mobile Application**
 
-- 🌱 I’m currently learning **Advanced Redux, Next.js and Node.js**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://tifefolio.vercel.app/](https://tifefolio.vercel.app/)
 
