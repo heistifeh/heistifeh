@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://boluwatifeosineye.com/)
+- 👨‍💻 All of my projects are available at https://boluwatifeosineye.com/
 
 - 💬 Ask me about **react, react native**
 
