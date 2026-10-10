@@ -23,11 +23,12 @@ I build mobile and web products that ship to real users. Over the last few years
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Fitnex**](https://fitnexonline.com) | Workout tracker PWA, live in production | React · TypeScript · Supabase · Zustand |
+| [**Fitnex**](https://fitnexonline.com) · [code](https://github.com/heistifeh/fitnex) | Workout tracker PWA for lifters, live in production | React 19 · TypeScript · Supabase · Zustand |
 | [**Alpha Beta**](https://github.com/heistifeh/alpha-beta) | Mobile banking app: accounts, cards, wallets, bill payments | Expo · React Native · NativeWind |
-| [**Trip Planner**](https://github.com/heistifeh/trip-planner) | Group trip planner with auth, chat and comments | React Native · Supabase |
-| [**Next E-Commerce**](https://github.com/heistifeh/next-ecommerce) | Storefront with auth, payments and a headless CMS | Next.js · Stripe · Clerk · Sanity |
-| [**Lendsqr Admin Console**](https://github.com/heistifeh/lendsqr-fe-test) | Admin dashboard built for a fintech assessment | React 19 · TanStack Query · SCSS |
+| [**Trip Planner**](https://github.com/heistifeh/trip-planner) | Group trip planner with OTP sign-in and shared trips | React Native · Supabase · TanStack Query |
+| [**Next E-Commerce**](https://next-ecommerce-eta-nine.vercel.app) · [code](https://github.com/heistifeh/next-ecommerce) | Storefront with auth, payments and a headless CMS | Next.js · Stripe · Clerk · Sanity |
+| [**Kanban Board**](https://github.com/heistifeh/trello) | Trello-style boards with drag-and-drop cards and auth | Next.js · Supabase · Clerk · dnd-kit |
+| [**Lendsqr Admin Console**](https://boluwatife-osineye-lendsqr-fe-test.vercel.app) · [code](https://github.com/heistifeh/lendsqr-fe-test) | Admin dashboard built for a fintech assessment | React 19 · TanStack Query · SCSS |
 
 ### Tech stack
 
@@ -45,7 +46,3 @@ I build mobile and web products that ship to real users. Over the last few years
 - 🔨 Building an AI-powered vendor mobile app
 - 📚 Learning applied AI/ML
 - 💼 Open to remote mobile / full-stack roles and freelance projects. Reach me at boluwatife.e.osineye@gmail.com
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heistifeh&theme=github-compact&hide_border=true" alt="Contribution graph"/>
-</p>
