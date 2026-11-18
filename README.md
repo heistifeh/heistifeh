@@ -1,18 +1,18 @@
 <h1 align="center">Boluwatife Osineye</h1>
-<p align="center"><b>Mobile & Full-Stack Engineer · React Native · Next.js · TypeScript</b><br/>Lagos, Nigeria · Open to remote roles & freelance projects</p>
+<p align="center"><b>Frontend / UI Engineer · React · TypeScript · Next.js · React Native</b><br/>Lagos, Nigeria · Open to remote roles & freelance projects</p>
 
 <p align="center">
-  <a href="https://boluwatifeosineye.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/boluwatifeosineye"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/tifethedev"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:boluwatife.e.osineye@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://boluwatifeosineye.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/boluwatifeosineye"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/tifethedev"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="mailto:boluwatife.e.osineye@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
 ### About me
 
-I build mobile and web products that ship to real users. Over the last few years I've worked across **fintech, logistics, HR tech and SaaS**, mostly on React Native and Next.js apps backed by Supabase, Firebase and Node.js.
+I build interactive web and mobile interfaces that ship to real users. Over the last few years I've worked across **fintech, logistics, HR tech and SaaS**, mostly on React, Next.js and React Native apps backed by Supabase, Firebase and Node.js.
 
 - Built the frontend for **Insta-Delivery**, a logistics and commerce platform for businesses across Nigeria (React Native, Expo, Google Maps live tracking, push notifications, Paystack/Flutterwave)
 - Set up CI/CD with GitHub Actions + EAS Build/Update, and monitoring with Sentry
@@ -24,6 +24,7 @@ I build mobile and web products that ship to real users. Over the last few years
 | Project | What it is | Stack |
 |---|---|---|
 | [**Klinfits**](https://github.com/heistifeh/klinfits) | One-stop shop for gym compression shirts | Next.js · React 19 · TypeScript · Tailwind · Neon |
+| [**SVG Line Chart**](https://github.com/heistifeh/svg-line-chart) | Interactive line chart drawn with raw SVG (no chart library), with unit-tested geometry and CI | React · TypeScript · SVG · Vitest |
 | [**Fitnex**](https://fitnexonline.com) · [code](https://github.com/heistifeh/fitnex) | Workout tracker PWA for lifters, live in production | React 19 · TypeScript · Supabase · Zustand |
 | [**Alpha Beta**](https://github.com/heistifeh/alpha-beta) | Mobile banking app: accounts, cards, wallets, bill payments | Expo · React Native · NativeWind |
 | [**Trip Planner**](https://github.com/heistifeh/trip-planner) | Group trip planner with OTP sign-in and shared trips | React Native · Supabase · TanStack Query |
@@ -34,7 +35,7 @@ I build mobile and web products that ship to real users. Over the last few years
 ### Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,tailwind,supabase,firebase,graphql,aws,gcp,docker,jest,githubactions,flutter&perline=8" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,tailwind,supabase,firebase,graphql,aws,gcp,docker,jest,githubactions,flutter&perline=8" alt="Tech stack"/>
 </p>
 
 - **Mobile:** React Native, Expo, EAS, push notifications (FCM/APNs), Google Maps & location tracking
@@ -46,4 +47,4 @@ I build mobile and web products that ship to real users. Over the last few years
 
 - 🔨 Building an AI-powered vendor mobile app
 - 📚 Learning applied AI/ML
-- 💼 Open to remote mobile / full-stack roles and freelance projects. Reach me at boluwatife.e.osineye@gmail.com
+- 💼 Open to remote frontend / UI and full-stack roles and freelance projects. Reach me at boluwatife.e.osineye@gmail.com
