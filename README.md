@@ -23,7 +23,7 @@ I build mobile and web products that ship to real users. Over the last few years
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Klinfits**](https://github.com/heistifeh/klinfits) | Clean fits web app | Next.js · React 19 · TypeScript · Tailwind · Neon |
+| [**Klinfits**](https://github.com/heistifeh/klinfits) | One-stop shop for gym compression shirts | Next.js · React 19 · TypeScript · Tailwind · Neon |
 | [**Fitnex**](https://fitnexonline.com) · [code](https://github.com/heistifeh/fitnex) | Workout tracker PWA for lifters, live in production | React 19 · TypeScript · Supabase · Zustand |
 | [**Alpha Beta**](https://github.com/heistifeh/alpha-beta) | Mobile banking app: accounts, cards, wallets, bill payments | Expo · React Native · NativeWind |
 | [**Trip Planner**](https://github.com/heistifeh/trip-planner) | Group trip planner with OTP sign-in and shared trips | React Native · Supabase · TanStack Query |
